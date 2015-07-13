@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "",
-    "timestamp": "",
+    "url": "www.test123.com",
+    "timestamp": "1436793111",
     "api_level": "22",
-    "md5sum": "",
-    "filename": "",
+    "md5sum": "xxxxxxxxxxxyyyyyyyyyyyyy",
+    "filename": "PXUpdate",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
