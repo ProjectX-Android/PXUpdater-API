@@ -2,6 +2,16 @@
  "id": null,
  "result": [
     {
+    "url": "http://fr1.androidfilehost.com/dl/s6eTYMou6XpomtjWgAGOJA/1437535850/24052804347766223/ProjectX-v1.0.0-20150628-m8.zip",
+    "timestamp": "1436796065",
+    "api_level": "22",
+    "md5sum": "9c376187dedcec385b51036320e7b93d",
+    "filename": "ProjectX-v1.0.0-20150628-m8.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
+    },
+    {
     "url": "https://fl1.androidfilehost.com/dl/z91uF3vr4FHxOOepiIbwAw/1438044379/24052804347782055/ProjectX-v1.1.0-20150727-m8.zip",
     "timestamp": "1436796066",
     "api_level": "22",
