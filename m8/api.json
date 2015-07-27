@@ -10,6 +10,16 @@
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
+    },
+    {
+    "url": "https://fl1.androidfilehost.com/dl/z91uF3vr4FHxOOepiIbwAw/1438044379/24052804347782055/ProjectX-v1.1.0-20150727-m8.zip",
+    "timestamp": "1436796066",
+    "api_level": "22",
+    "md5sum": "e9e8c60f61667c81d55ab853fe98cbe8",
+    "filename": "ProjectX-v1.0.0-20150727-m8.zip",
+    "channel": "NIGHTLY",
+    "changes": "",
+    "incremental": ""
     }
   ],
  "error": null
