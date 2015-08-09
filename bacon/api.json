@@ -2,13 +2,13 @@
  "id": null,
  "result": [
     {
-    "url": "http://qc4.androidfilehost.com/dl/IiUU8pn97ua6otGEXyxuTQ/1438643973/24052804347786628/ProjectX-v1.1.0-20150803-bacon.zip",
-    "timestamp": "1438611927",
+    "url": "http://tx2.androidfilehost.com/dl/FmteEPRdxp5npmWDs7SLPg/1439157433/24052804347790611/ProjectX-v1.1.0-20150809-bacon.zip",
+    "timestamp": "1439122481",
     "api_level": "22",
-    "md5sum": "0c1083d56adc5563d094a350a4d79c68",
-    "filename": "ProjectX-v1.1.0-20150803-bacon.zip",
+    "md5sum": "8e25f43d6b42dea1dcac8db28b0aa8bb",
+    "filename": "ProjectX-v1.1.0-20150809-bacon.zip",
     "channel": "NIGHTLY",
-    "changes": "",
+    "changes": "https://raw.githubusercontent.com/ProjectX-Android/PXUpdater-API/lollipop-5.1/changelog.xml",
     "incremental": ""
     }
   ],
